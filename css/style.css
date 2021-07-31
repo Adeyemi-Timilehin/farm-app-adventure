@@ -1,0 +1,28 @@
+    
+body {
+  font-family: 'Itim', cursive;
+}
+    #jumbo {
+      height: 400px;
+      background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('../images/images8.jpg');
+      background-repeat: no-repeat;
+      background-size: cover;
+      padding: 70px 0px;
+    }
+
+    #head {
+      position: fixed;
+      top: 0px;
+      width: 100%;
+      z-index: 999;
+    }
+
+    .green {
+      color: green !important;
+    }
+
+    a{
+
+    color: green;
+
+    }
